@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "pomoika/Без названия.md",
+                "file": "leetcode/Задачи/876. Middle of the Linked List.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Без названия"
+              "title": "876. Middle of the Linked List"
             }
           }
         ]
@@ -179,13 +179,23 @@
       "daily-notes:Сегодняшняя заметка": false,
       "templates:Вставить шаблон": false,
       "command-palette:Открыть палитру команд": false,
-      "bases:Создать новую базу": false
+      "bases:Создать новую базу": false,
+      "random-note:Открыть случайную заметку": false
     }
   },
   "active": "44a7303e6382fcd1",
   "lastOpenFiles": [
-    "Без названия",
+    "leetcode/Шаблоны/Fast and Slow pointers.md",
+    "leetcode/Шаблоны/Шаблоны.md",
+    "leetcode/Задачи/Задачи.md",
+    "leetcode/Задачи/876. Middle of the Linked List.md",
+    "pomoika/storage/Pasted image 20251120180223.png",
+    "leetcode/Задачи",
     "pomoika/Без названия.md",
+    "leetcode/Шаблоны.md",
+    "leetcode/Шаблоны/список",
+    "leetcode/Шаблоны",
+    "Без названия",
     "leetcode",
     "pomoika/Без названия.base",
     "Добро пожаловать.md",
